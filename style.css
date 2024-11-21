@@ -13,3 +13,12 @@ h1{
     }
 
 }
+@media (min-width:768px){
+    body{
+        background-color: red;
+    }
+    h1{
+        color: aqua;
+    }
+
+}
