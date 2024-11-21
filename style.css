@@ -22,3 +22,12 @@ h1{
     }
 
 }
+@media (min-width:1024px){
+    body{
+        background-color: yellow;
+    }
+    h1{
+        color: red;
+    }
+
+}
